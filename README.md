@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulojuniel
-- 👀 I’m interested in Jobs, and learning.
+- 👀 I’m interested in Jobs.
 - 🌱 I’m currently learning DevOps, Cloud, languages , other technologies and idioms.
 - 📫 How to reach me in linkedin (https://www.linkedin.com/in/paulojuniel/) or (https://www.instagram.com/paulojuniel/)
 
