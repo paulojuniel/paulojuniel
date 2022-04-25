@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paulojuniel
 - 👀 I’m interested in Jobs.
 - 🌱 I’m currently learning DevOps, Cloud, languages , other technologies and idioms.
-- 📫 How to reach me in linkedin (https://www.linkedin.com/in/paulojuniel/) or (https://www.instagram.com/paulojuniel/)
+- 📫 How to reach me: linkedin (https://www.linkedin.com/in/paulojuniel/) or (https://www.instagram.com/paulojuniel/)
 
 <!---
 paulojuniel/paulojuniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
